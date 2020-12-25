@@ -1,0 +1,11 @@
+i {
+  cursor: pointer;
+}
+.right {
+  display: flex;
+  align-items: center;
+}
+
+.count {
+  margin-left: 1rem;
+}
